@@ -3,13 +3,24 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "color-coded-tilemap": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#926e12eefffd09d453c7cde73f8d6ebd0e666d9d",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +31,6 @@
     },
     "supportedTargets": [
         "arcade"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }

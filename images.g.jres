@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQUABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAAdwAAAAAAAAAAAAAAd+3rDAAAAAAAAAAA172+DAAAAABwJ3cLuwAAAAcAAAB3e3u3e7u89/fLAAC3e1u3d7d8x8e8AADHZ7e3d8e3zADLAADHZ8a8u7vMvAAAAADHF8a8d8e3zMfLAABwZ8G3crd/x/e8AAAAAAAAuwsA8AfLAAAAALAL1+3uDAAAAAAAAHv7d+3uDAAAAAAAAHcHd3B3y8sLAAAAAPcHcAB3AAAAAAAAALAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "slayer static position"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
