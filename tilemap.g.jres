@@ -1,0 +1,19 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAC8y///zP/P/7zLz/zMz8//vMu//MzP//+8zL/8/8//////v/zMz8//vMu//MzPz/+8y7/8zM/P/7zLz/zM/8//vMv//8z/z/+8y8/8zM/P/7zLv/zMz///vMu//MzP/////7/8/8/P/7zLv/zMz8//vMu//MzPz/+8y8/8zP/P/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "dark brick"
+    },
+    "tile2": {
+        "data": "hwQQABAAAADM/yzMvLv8zEzPLP/PvPvMRMTE/E/8v8y8u8z//P//y7y0u8vMLML/TCu8u7RLJP9MtCvL+8xEzP/ETCK8TEzLwkzM9PzMTMQs/M/0z/z7z8zMu0TEzLz//Mwiu0xEv/z/TEwv/8yyy8y0S0TCzMLMvMy7RPQiRLvMzMzCvLtMyw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "magma brick floor"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
