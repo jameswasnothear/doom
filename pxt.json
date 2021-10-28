@@ -1,5 +1,5 @@
 {
-    "name": "DOOM",
+    "name": "DOOM.0.2",
     "description": "",
     "dependencies": {
         "device": "*",
